@@ -1,0 +1,7 @@
+#Wed Oct 05 14:17:10 CEST 2016
+base.0=/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_96559052735d0d81a999816de80370abb515dd4d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1484c26dc93a14fec102c0417defac40e920d18c/classes.dex
+base.1=/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1484c26dc93a14fec102c0417defac40e920d18c
+file.0=/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_96559052735d0d81a999816de80370abb515dd4d/classes.dex

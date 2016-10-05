@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/raw/notification_sound.mp3",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/raw/notification_sound.mp3"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/res/raw/gtm_analytics"
+    }
+]

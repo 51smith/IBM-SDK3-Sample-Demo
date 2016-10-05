@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="492050140533734"
+    token="-743427047294975208"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="485162235915021"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="492050140533734"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

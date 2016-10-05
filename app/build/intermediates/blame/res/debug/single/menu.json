@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/menu_action_webview.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/menu_action_webview.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/inbox_message_actions.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/inbox_message_actions.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/rich_content_actions.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/rich_content_actions.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/rich_inbox_context.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/rich_inbox_context.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/rich_inbox_actions.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/rich_inbox_actions.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/menu_registration_details.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/menu_registration_details.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/menu_attributes.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/menu_attributes.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/inapp_menu_main.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/inapp_menu_main.xml"
+    },
+    {
+        "merged": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/build/intermediates/res/merged/debug/menu/menu_event_test.xml",
+        "source": "/Users/Smith51/Development/Rabobank/imc/ibm-mobile-push-android-sdk-3.6.1 2.9/samples/Demo/app/src/main/res/menu/menu_event_test.xml"
+    }
+]
